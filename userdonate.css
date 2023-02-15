@@ -1,0 +1,215 @@
+
+            div{
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                
+            }
+            .head{
+                display: flex;
+                padding-top: 15px;
+
+            }
+            .bookimg{
+               margin-left: 50px;
+               display: flex;
+            }
+            .book{
+                font-size: 20px;
+                font-weight: bold;
+                padding-top: 15px;
+            }
+            .home{
+                margin-top: 15px;
+                margin-left: 340px;
+                font-size: 18px;
+                font-weight: 750;
+                background-color: white;
+                border: 0px;
+            }
+            .about{
+                margin-top: 15px;
+                margin-left: 12px;
+                font-size: 16px;
+                font-weight: 750;
+                background-color: white;
+                border: 0px;
+            }
+            .ourbook{
+                margin-top: 15px;
+                margin-left: 12px;
+                font-size: 16px;
+                font-weight: 750;
+                background-color: white;
+                border: 0px;
+            }
+            
+            .donate{
+                margin-top: 15px;
+                margin-left: 12px;
+                font-size: 17px;
+                font-weight: 750;
+                background-color: white;
+                border: 0px;
+            }
+            .track{
+                margin-top: 15px;
+                margin-left: 12px;
+                font-size: 16px;
+                font-weight: 750;
+                background-color: white;
+                border: 0px;
+            }
+            .logo{
+                margin-top: 9px;
+            }
+            .login{
+                margin-top: 15px;
+                font-size: 16px;
+                font-weight: 780;
+                background-color: white;
+                border: 0px;
+            }
+            .userprofile{
+                margin-top: 12px;
+                font-size: 17.5px;
+            }
+            .icon{
+                margin-top: 10px;
+                font-size: 30px;
+            }
+
+            
+
+            .body{
+                background: rgba(112, 111, 111, 0.324);
+                height: 750px;
+                width: 1510px;
+                margin-top: 10px;
+                padding-top: 30px;
+                
+                
+            }
+            .card1{
+                background-image: linear-gradient(25deg, #9bf318 ,#eeff05);
+                height: 600px;
+                width: 1330px;
+                margin-left: 80px;
+                margin-top: 20px;
+                border-radius: 10px; 
+                padding-top: 50px;
+                border: 2px;
+                border-color: #9fa09d;
+                border-style: solid;
+                
+            }
+            .card2{
+                background: white;
+                height: 550px;
+                width: 595px;
+                margin-inline-start: 45px;
+                border-radius: 10px;
+                padding-top: 15px;
+                
+            }
+            .card3{
+                background: rgb(255, 255, 255);
+                height: 565px;
+                width: 580px;
+                margin-inline-start: 45px;
+                border-radius: 10px;
+                margin-top: -565px;
+                margin-left: 720px;
+                
+            }
+            .line1{
+                margin-top: 10px;
+                margin-left: 200px;
+                font-size: 30px;
+                font-weight: bolder;
+            }
+            .line2{
+                margin-top: -10px;
+                margin-left: 100px;
+            }
+            .name{
+                padding: 12px;
+                width: 395px;
+                margin-top: -15px;
+                margin-left: 90px;
+                border-radius: 5px;
+                border: 0px;
+                background: rgba(233, 229, 229, 0.718);
+            }
+            .line3{
+                margin-left: 100px;
+            }
+            .bookname{
+                padding: 12px;
+                width: 395px;
+                margin-top: -15px;
+                margin-left: 90px;
+                border-radius: 5px;
+                border: 0px;
+                background: rgba(229, 224, 224, 0.718);
+            }
+            .line4{
+                margin-left: 100px;
+            }
+            .address{
+                padding-top: 15px;
+                padding-left: 10px;
+                padding-bottom: 160px;
+                width: 405px;
+                margin-top: -15px;
+                margin-left: 90px;
+                border-radius: 5px;
+                border: 0px;
+                background: rgba(233, 229, 229, 0.718);
+            }
+            .submit{
+                margin-left: 380px;
+                padding: 8px;
+                width: 125px;
+                font-size: 15px;
+                font-weight: bold;
+                background: rgb(10, 234, 130);
+                border-radius: 8px;
+                border: 0px;
+            }
+            .or{
+                margin-top: -270px;
+                margin-left: 620px;
+            }
+            .line5{
+                margin-top: -400px;
+                margin-left: 845px;
+                font-size: 30px;
+                font-weight: bolder;
+            }
+            .card4{
+                background: rgb(189, 34, 34);
+                height: 200px;
+                width: 300px;
+                margin-left: 870px;
+                border-radius: 8px;
+            }
+            .line6{
+                margin-top: -170px;
+                margin-left: 960px;
+                font-size: 28px;
+                font-family: Arial, Helvetica, sans-serif;
+                
+            }
+            .flipkart{
+                margin-left: 920px;
+            }
+            .line7{
+                margin-top: -35px;
+                margin-left: 970px;
+                font-size: 28px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .amazon{
+                margin-left: 920px;
+            }
+
+        

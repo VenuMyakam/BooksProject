@@ -1,0 +1,214 @@
+div{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.head{
+    display: flex;
+    padding-top: 15px;
+
+}
+.bookimg{
+   margin-left: 50px;
+   display: flex;
+}
+.book{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.home{
+    margin-top: 15px;
+    margin-left: 340px;
+    font-size: 16px;
+    font-weight: 750;
+    background-color: white;
+    border: 0px;
+}
+.about{
+    margin-top: 15px;
+    margin-left: 12px;
+    font-size: 16px;
+    font-weight: 750;
+    background-color: white;
+    border: 0px;
+}
+.ourbook{
+    margin-top: 15px;
+    margin-left: 12px;
+    font-size: 17px;
+    font-weight: 750;
+    background-color: white;
+    border: 0px;
+}
+
+.donate{
+    margin-top: 15px;
+    margin-left: 12px;
+    font-size: 16px;
+    font-weight: 750;
+    background-color: white;
+    border: 0px;
+}
+.track{
+    margin-top: 15px;
+    margin-left: 12px;
+    font-size: 16px;
+    font-weight: 750;
+    background-color: white;
+    border: 0px;
+}
+.logo{
+    margin-top: 9px;
+}
+.login{
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 780;
+    background-color: white;
+    border: 0px;
+}
+
+
+
+.body{
+    background: rgba(112, 111, 111, 0.324);
+    height: 855px;
+    width: 1500px;
+    padding-right: 21px;
+    margin-left: -10px;
+    margin-bottom: -10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.line1{
+    padding:30px;
+    margin-left: 50px;
+
+}
+.book1{
+    margin-left: 80px;
+    
+}
+img{
+    border-radius: 8px;
+}
+.text1{
+    margin-top: -330px;
+    margin-left: 390px;
+    font-size: 29px;
+    font-weight: bolder;
+
+}
+.text2{
+    margin-top: -30px;
+    margin-left: 390px;
+    font-size: 29px;
+    font-weight: bolder;
+    
+}
+.text3{
+    margin-top: -30px;
+    margin-left: 390px;
+    font-size: 29px;
+    font-weight: bolder;
+    
+}
+.text4{
+    margin-left: 390px;
+    
+}
+.text5{
+    margin-top: -170px;
+    margin-left: 810px;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+.text6{
+    margin-top: -18px;
+    margin-left: 810px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.text7{
+    margin-top: -150px;
+    margin-left: 1150px;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+.book2{
+    
+    margin-left: 1135px;
+
+}
+.book3{
+    margin-top: -233px;
+    margin-left: 1340px;
+
+}
+.book4{
+    margin-top: 35px;
+    margin-left: 1135px;
+    
+}
+.book5{
+    margin-top:-233px;
+    margin-left: 1340px;
+    
+}
+.book6{
+    margin-top: 35px;
+    margin-left: 1135px;
+}
+.book7{
+    margin-top:-233px;
+    margin-left: 1340px;
+}
+
+.text8{
+    padding-left: 78px;
+    margin-top: -365px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.text9{
+    padding-left: 78px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.text10{
+    padding-left: 78px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.text11{
+    padding-left: 78px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.text12{
+    padding-bottom: 30px;
+    padding-left: 78px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.text13{
+    padding-left: 78px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.text14{
+    padding-left: 78px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.text15{
+    padding-left: 78px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.text16{
+    padding-left: 78px;
+    font-size: 14px;
+    font-weight: bolder;
+}

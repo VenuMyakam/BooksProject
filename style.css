@@ -1,0 +1,555 @@
+
+            div{
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                
+            }
+            .head{
+                display: flex;
+                padding-top: 15px;
+
+            }
+            .bookimg{
+               margin-left: 50px;
+               display: flex;
+            }
+            .book{
+                font-size: 20px;
+                font-weight: bold;
+                padding-top: 15px;
+            }
+            .home{
+                margin-top: 15px;
+                margin-left: 340px;
+                font-size: 18px;
+                font-weight: 750;
+                background-color: white;
+                border: 0px;
+            }
+            .about{
+                margin-top: 15px;
+                margin-left: 12px;
+                font-size: 16px;
+                font-weight: 750;
+                background-color: white;
+                border: 0px;
+            }
+            .ourbook{
+                margin-top: 15px;
+                margin-left: 12px;
+                font-size: 16px;
+                font-weight: 750;
+                background-color: white;
+                border: 0px;
+            }
+            
+            .donate{
+                margin-top: 15px;
+                margin-left: 12px;
+                font-size: 16px;
+                font-weight: 750;
+                background-color: white;
+                border: 0px;
+            }
+            .track{
+                margin-top: 15px;
+                margin-left: 12px;
+                font-size: 16px;
+                font-weight: 750;
+                background-color: white;
+                border: 0px;
+            }
+            .logo{
+                margin-top: 9px;
+            }
+            .login{
+                margin-top: 15px;
+                font-size: 16px;
+                font-weight: 780;
+                background-color: white;
+                border: 0px;
+            }
+            .userprofile{
+                font-size: 17px;
+            }
+            .icon{
+                margin-top: 10px;
+                font-size: 30px;
+            }
+
+            
+
+            .body{
+                background: rgba(112, 111, 111, 0.324);
+                height: 810px;
+                width: fit-content;
+                margin-left: -10px;
+                margin-top: -25px;
+                margin-bottom: -10px;
+            }
+            .recent{
+                margin-left: 50px;
+                padding-bottom: 5px;
+                padding-top: 15px;
+                font-size: 25px;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .card1{
+                background-image: linear-gradient(#F78E8E  ,#da4176);
+                border-radius: 10px;
+                height: 265px;
+                width: 470px;
+                margin-left: 30px;
+                margin-top: -25px;
+                display: flexbox;
+                
+                
+            }
+            .img1{
+                padding: 30px;
+            }
+            .text1{
+                margin-top: -255px;
+                margin-left: 255px;
+                font-size: larger;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;  
+            }
+            .text2{
+                margin-top: -15px;
+                margin-left: 300px;
+                font-size: small;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text3{
+                margin-top: -10px;
+                margin-left: 260px;
+                font-size: medium;
+                font-weight: 500;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text4{
+                margin-top: 70px;
+                margin-left: 260px;
+                font-size: small;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .card2{
+                background-image: linear-gradient(#0e727b  ,#63a0a1);
+                border-radius: 10px;
+                height: 265px;
+                width: 470px;
+                margin-left: 520px;
+                margin-top: -265px;
+                display: flexbox;
+            }
+            .img2{
+                padding: 30px;
+            }
+            .text5{
+                margin-top: -255px;
+                margin-left: 255px;
+                font-size: larger;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text6{
+                margin-top: -15px;
+                margin-left: 300px;
+                font-size: small;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text7{
+                margin-top: -10px;
+                margin-left: 275px;
+                font-size: medium;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text8{
+                margin-top: 70px;
+                margin-left: 260px;
+                font-size: small;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .card3{
+                background-image: linear-gradient(#e659e9  ,#974aea);
+                border-radius: 10px;
+                height: 265px;
+                width: 470px;
+                margin-left: 1010px;
+                margin-right: 41px;
+                margin-top: -265px;
+                display: flexbox;
+            }
+            .img3{
+                padding: 30px;
+            }
+            .text9{
+                margin-top: -255px;
+                margin-left: 255px;
+                font-size: larger;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text10{
+                margin-top: -15px;
+                margin-left: 300px;
+                font-size: small;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text11{
+                margin-top: -10px;
+                margin-left: 260px;
+                font-size: medium;
+                font-weight: 500;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text12{
+                margin-top: 70px;
+                margin-left: 260px;
+                font-size: small;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+
+
+
+
+            .Browse{
+                display: flexbox;
+                margin-top: 10px;
+                padding-left: 60px;
+                font-size: 33px;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .cont2{
+                display: flexbox;
+                margin-top: -65px;
+                padding-left: 1230px;
+                font-size: 33px;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            .card4{
+                display: flexbox;
+                background: rgb(245, 242, 242);
+                border: 10px;
+                border: #080808;
+                border-radius: 8px;
+                margin-top: -25px;
+                margin-left: 30px;
+                height: 385px;
+                width: 1140px;
+            }
+
+            .book4{
+                padding: 25px;
+            }
+            .text13{
+                padding-bottom: 35px;
+                margin-top: -130px;
+                margin-left: 165px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text14{
+                margin-bottom: 50px;
+                margin-left: 140px;
+                font-size :x-small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            .book5{
+                
+                margin-top: -180px;
+                margin-left: 295px;
+            }
+            .text15{
+                padding-bottom: 35px;
+                margin-top: -130px;
+                margin-left: 445px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+                
+            }
+            .text16{
+                padding-bottom: 35px;
+                margin-top: -45px;
+                margin-left: 445px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+                
+            }
+            .text17{
+                padding-bottom: 35px;
+                margin-top: -45px;
+                margin-left: 447px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+                
+            }
+            .text18{
+                margin-top: -33px;
+                margin-left: 435px;
+                font-size :x-small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;  
+            }
+            .book6{
+                margin-top: -117px;
+                margin-left: 565px;
+            }
+            .text19{
+                padding-bottom: 35px;
+                margin-top: -130px;
+                margin-left: 715px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text20{
+                margin-top: -45px;
+                margin-left: 745px;
+                font-size :x-small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text21{
+                padding-bottom: 35px;
+                margin-top: -10px;
+                margin-left: 715px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+                
+            }
+            .text22{
+                padding-bottom: 35px;
+                margin-top: -45px;
+                margin-left: 745px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text23{
+                margin-top: -45px;
+                margin-left: 715px;
+                font-size :x-small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .book7{
+                margin-top: -117px;
+                margin-left: 840px;
+
+            }
+            .text24{
+                padding-bottom: 30px;
+                margin-top: -129px;
+                margin-left: 985px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text25{
+                margin-top: -40px;
+                margin-left: 1012px;
+                font-size :x-small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text26{
+                padding-bottom: 30px;
+                margin-top: -10px;
+                margin-left: 995px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text27{
+                padding-bottom: 30px;
+                margin-top: -45px;
+                margin-left: 1008px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text28{
+                margin-top: -35px;
+                margin-left: 985px;
+                font-size :x-small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .book8{
+                padding: 25px;
+                margin-top:50px;
+
+
+            }
+            .text29{
+                padding-bottom: 35px;
+                margin-top: -150px;
+                margin-left: 165px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text30{
+                margin-top: -45px;
+                margin-left: 190px;
+                font-size :x-small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text31{
+                margin-top: -5px;
+                margin-left: 165px;
+                font-size :x-small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text32{
+                margin-top: px;
+                margin-left: 165px;
+                font-size :x-small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .book9{
+                padding: 25px;
+                margin-top: -135px;
+                margin-left: 270px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text33{
+                padding-bottom: 35px;
+                margin-top: -150px;
+                margin-left: 445px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text34{
+                margin-top: -45px;
+                margin-left: 475px;
+                font-size :x-small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text35{
+                margin-top: -5px;
+                margin-left: 455px;
+                font-size :small;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text36{
+                margin-top: -7px;
+                margin-left: 445px;
+                font-size :x-small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .book10{
+                padding: 25px;
+                margin-top: -135px;
+                margin-left: 540px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text37{
+                padding-bottom: 35px;
+                margin-top: -150px;
+                margin-left: 720px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .text38{
+                margin-top: -45px;
+                margin-left: 740px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text39{
+                margin-top: -10px;
+                margin-left: 745px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text40{
+                margin-top: -7px;
+                margin-left: 710px;
+                font-size :x-small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .book11{
+                padding: 25px;
+                margin-top: -135px;
+                margin-left: 815px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text41{
+                margin-top: -150px;
+                margin-left: 1010px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text42{
+                margin-top: -10px;
+                margin-left: 1025px;
+                font-size :small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .text43{
+                margin-top: 20px;
+                padding-top: -10px;
+                margin-left: 980px;
+                font-size :x-small;
+                font-weight: bolder;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+
+
+        
